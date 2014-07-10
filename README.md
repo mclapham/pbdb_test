@@ -3,7 +3,7 @@ pbdb_test
 
 Comparing occurrence downloads from Fossilworks and PBDB API
 
-The csv data files are downloads from Fossilworks (unless otherwise stated, default options used):
+The csv data files are downloads from Fossilworks, made on 2014-7-10 (unless otherwise stated, default options used):
 
 cetacea.csv: Taxon to include=Cetacea
 
